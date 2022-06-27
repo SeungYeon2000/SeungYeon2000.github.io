@@ -6,13 +6,13 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: SeungYeon Lee
-title: 이화곰(구마)대생
-email: syeunlee@ewhain.net
+name: "SeungYeon Lee"
+title: "이화곰(구마)대생"
+email: "syeunlee@ewhain.net"
 # email_title: Email (Email title override)
-phone: +82)10-9178-6442
+phone: "+82)10-9178-6442"
 # phone_title: Phone (Phone title override)
-website: https://SeungYeon2000.github.io
+website: "https://SeungYeon2000.github.io"
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
