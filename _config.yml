@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: 스크린샷 2022-06-28 02.15.50.png #(eg. images/profile.jpg)
+about_profile_image: SeungYeon2000.github.io/images/me.jpg #(eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
